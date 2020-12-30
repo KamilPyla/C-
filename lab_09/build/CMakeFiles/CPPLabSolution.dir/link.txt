@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -shared -Wl,-soname,libCPPLabSolution.so -o libCPPLabSolution.so CMakeFiles/CPPLabSolution.dir/MyGrade.cpp.o CMakeFiles/CPPLabSolution.dir/MyRegister.cpp.o 

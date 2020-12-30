@@ -1,0 +1,4 @@
+/home/alfakp/Desktop/home/Desktop/home/C++/Lab2020/lab_12/build/CMakeFiles/rebuild_cache.dir
+/home/alfakp/Desktop/home/Desktop/home/C++/Lab2020/lab_12/build/CMakeFiles/edit_cache.dir
+/home/alfakp/Desktop/home/Desktop/home/C++/Lab2020/lab_12/build/CMakeFiles/CPPLabExe.dir
+/home/alfakp/Desktop/home/Desktop/home/C++/Lab2020/lab_12/build/CMakeFiles/CPPLabSolution.dir

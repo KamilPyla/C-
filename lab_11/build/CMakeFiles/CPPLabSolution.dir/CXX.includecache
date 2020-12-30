@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Desktop/Downloads/KP-PPO/MyList.cpp
+MyList.h
+/home/alfakp/Desktop/Downloads/KP-PPO/MyList.h
+iostream
+-
+
+/home/alfakp/Desktop/Downloads/KP-PPO/MyList.h
+iostream
+-
+initializer_list
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/MyDir.cpp
+MyDir.h
+/home/alfakp/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/MyDir.h
+iostream
+-
+cstring
+-
+string
+-
+
+/home/alfakp/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/MyDir.h
+string
+-
+

@@ -1,0 +1,4 @@
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/build/CMakeFiles/rebuild_cache.dir
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/build/CMakeFiles/edit_cache.dir
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/build/CMakeFiles/CPPLabExe.dir
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/build/CMakeFiles/CPPLabSolution.dir

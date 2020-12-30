@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Downloads/KP-PPO (4) (1)/MyString.h
+
+/home/alfakp/Downloads/KP-PPO (4) (1)/main.cpp
+MyString.h
+/home/alfakp/Downloads/KP-PPO (4) (1)/MyString.h
+iostream
+-
+

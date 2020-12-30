@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/MyAngle.h
+
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/MyPrint.h
+
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/main.cpp
+MyAngle.h
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/MyAngle.h
+MyPrint.h
+/home/alfakp/Desktop/Infa_fis/2_rok/3_semestr/Obiektowe/Laby/lab_7/MyPrint.h
+iostream
+-
+iomanip
+-
+

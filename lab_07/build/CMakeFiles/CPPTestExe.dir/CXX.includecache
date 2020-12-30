@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/test.cpp
+array
+-
+string
+-
+cstring
+-
+iostream
+-
+

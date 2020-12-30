@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -rdynamic CMakeFiles/CPPTestExe.dir/home/alfakp/Desktop/home/Desktop/home/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/test.cpp.o -o /home/alfakp/Desktop/home/Desktop/home/Desktop/home/C++/Lab2020/lab_07/build/CPPTestExe 

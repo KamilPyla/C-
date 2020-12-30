@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyGrade.cpp
+iostream
+-
+MyGrade.h
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyGrade.h
+
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyGrade.h
+
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyRegister.cpp
+iostream
+-
+MyRegister.h
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyRegister.h
+MyGrade.h
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyGrade.h
+
+/home/alfakp/Downloads/KP-PPO (1) (1)/MyRegister.h
+
