@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/Downloads/KP-PPO (6)/BitArray.h
+iostream
+-
+
+/home/alfakp/Downloads/KP-PPO (6)/main.cpp
+BitArray.h
+/home/alfakp/Downloads/KP-PPO (6)/BitArray.h
+iostream
+-
+

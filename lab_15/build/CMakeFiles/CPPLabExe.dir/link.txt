@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -rdynamic CMakeFiles/CPPLabExe.dir/main.cpp.o -o CPPLabExe  -Wl,-rpath,/home/alfakp/C++/Lab2020/lab_15/build libCPPLabSolution.so 

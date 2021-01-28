@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/C++/Lab2020/lab_13/MyString.cpp
+iostream
+-
+MyString.h
+/home/alfakp/C++/Lab2020/lab_13/MyString.h
+cstring
+-
+
+/home/alfakp/C++/Lab2020/lab_13/MyString.h
+

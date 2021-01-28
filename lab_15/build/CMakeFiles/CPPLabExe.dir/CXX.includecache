@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alfakp/C++/Lab2020/lab_15/InfoClass.h
+string
+-
+
+/home/alfakp/C++/Lab2020/lab_15/InfoSmartPtr.h
+InfoClass.h
+/home/alfakp/C++/Lab2020/lab_15/InfoClass.h
+
+/home/alfakp/C++/Lab2020/lab_15/main.cpp
+InfoSmartPtr.h
+/home/alfakp/C++/Lab2020/lab_15/InfoSmartPtr.h
+InfoClass.h
+/home/alfakp/C++/Lab2020/lab_15/InfoClass.h
+iostream
+-
+
